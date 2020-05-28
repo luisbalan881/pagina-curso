@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: #EDE7E1;
+}
+
+header{
+  width: 100%;
+  background: #6AE5D9;
+  overflow: auto;
+}
+
+p{
+  font-size: 200%;
+  text-align: center;
+  padding: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img{
+  display: block;
+  align-items: center;
+  position: relative;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 100px;
+  overflow: hidden;
+  border: 10px dashed orange
+}
+
+footer{
+  background: #0C134B;
+  width: 100%;
+  overflow: auto;
+}
+
+.parte1{
+  font-size: 150%;
+  text-align: center;
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+.picture{
+  display: block;
+  margin: 0 auto;
+
+}
+
+.invitacion{
+  color: white;
+}

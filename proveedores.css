@@ -1,0 +1,57 @@
+body{
+margin: 0;
+background: #DFD3D5;
+}
+
+h1{
+text-align: center;
+}
+
+p{
+  padding: 30px;
+  text-align: center;
+  text-align: justify;
+}
+
+img{
+  display: flex;
+  margin: 0 auto;
+  border-radius: 40px;
+}
+
+header{
+  background: #3BCBEA;
+  width: 100%;
+  overflow: auto;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 160%;
+}
+
+.helado{
+  width: 29%;
+  float: left;
+  margin: 2% 2%;
+  font-size: 160%;
+  font-family: 'IBM Plex Sans', sans-serif;
+  background: #3BEA85;
+  border-radius: 15px;
+}
+
+.helado h1{
+  display: flex;
+  background: white;
+  width: 50%;
+  margin: 30px auto;
+  border-radius: 40px;
+
+}
+
+.clear-flex{
+  clear:both;
+  padding: 3%;
+}
+
+footer{
+  background: #F3F3F7;
+  width: 100%;
+  overflow: auto;

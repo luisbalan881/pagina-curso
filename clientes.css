@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: #A9E3AA;
+}
+
+header{
+  background: #E42B2B;
+  overflow: auto;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  text-align: center;
+  font-size: 200%;
+  font-family: 'Montserrat', sans-serif;
+  margin left: 70px;
+  margin-right: 70px;
+}
+
+.clientes-feliz{
+  width: 29%;
+  float: left;
+  margin: 2% 2%;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+
+}
+
+.clientes-feliz img{
+  border-radius: 30px;
+  border: 2px dashed red;
+}
+
+footer{
+  background: #060C49;
+  width: 100%;
+  overflow: auto;
+  text-align: center;
+  font-size: 200%;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
